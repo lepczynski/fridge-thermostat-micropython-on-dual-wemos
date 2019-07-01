@@ -16,8 +16,8 @@ The story is [here](https://wiki.hackerspace.pl/projects:lepi-lodowka).
 
 
 ## BOM:
--2x Wemos D1 Mini
--5V power supply
--SSR Relay
--8ws2812 LEDs
--B18b20
+-2x Wemos D1 Mini  
+-5V power supply (HLK-PM01 for me)  
+-SSR Relay  
+-ws2812 LEDs
+-ds18b20 i2c thermometer  
