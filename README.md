@@ -1,1 +1,1 @@
-# refrigerator-thermostat-micropython-on-dual-wemos
+# fridgde-thermostat-micropython-on-dual-wemos
