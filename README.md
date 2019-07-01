@@ -8,7 +8,7 @@ The story is [here](https://wiki.hackerspace.pl/projects:lepi-lodowka).
 
 
 # toDo:
--at last put it on GitHub! xD  
+-~~at last put it on GitHub!~~ :D  
 -try asking for help :>
   
 -try swiching to non-blocking sockets  
