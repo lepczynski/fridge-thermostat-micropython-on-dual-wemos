@@ -1,0 +1,34 @@
+��c8܄l������c$l��Lighthouse boot start...
+setting up lodowka-lighthouse AP...
+AP status:  -1
+WebREPL daemon started on ws://192.168.4.1:8266
+WebREPL daemon started on ws://0.0.0.0:8266
+Started webrepl in normal mode
+lighthouse connecting to the engine...
+station config: ('192.168.4.2', '255.255.255.0', '192.168.4.1', '192.168.4.1')
+Connecting socket to 192.168.1.44:55555...
+Socket connected.
+ERROR: lighthouse.main: client: [Errno 103] ECONNABORTED
+Connecting socket to 192.168.1.44:55555...
+ERROR: lighthouse.main: client: [Errno 113] EHOSTUNREACH
+
+ ets Jan  8 2013,rst cause:2, boot mode:(3,6)
+
+load 0x40100000, len 31020, room 16 
+tail 12
+chksum 0xd2
+ho 0 tail 12 room 4
+load 0x3ffe8000, len 1100, room 12 
+tail 0
+chksum 0x9a
+load 0x3ffe8450, len 824, room 8 
+tail 0
+chksum 0xbd
+csum 0xbd
+���'��{��o|�lld$`b�|r�l�g�
+                          �'�
+                             d`��s�l�l
+                                      d`��r�l�$
+                                          �c;l;l{�o�����x��$����cdl��c��g����cp��d���
+                                                                                     ���#
+l$�Lighthouse boot start...

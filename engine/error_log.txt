@@ -1,0 +1,24 @@
+�Engine boot start...
+setting up lodowka-engine AP...
+AP status:  -1
+WebREPL daemon started on ws://192.168.4.1:8266
+WebREPL daemon started on ws://0.0.0.0:8266
+Started webrepl in normal mode
+connecting to network...
+station config: ('192.168.1.44', '255.255.255.0', '192.168.1.1', '31.11.202.254')
+Opening a socket at port 55555...
+Binding socket...
+Socket is bound! :>
+Socket is listening at 55555...
+
+WebREPL connection from: ('192.168.1.2', 48508)
+
+WebREPL connection from: ('192.168.1.2', 48506)
+Traceback (most recent call last):
+  File "webrepl.py", line 42, in accept_conn
+  File "websocket_helper.py", line 23, in server_handshake
+OSError: EOF in headers
+
+Concurrent WebREPL connection from ('192.168.4.3', 37182) rejected
+
+Concurrent WebREPL connection from ('192.168.4.3', 37184) rejected
