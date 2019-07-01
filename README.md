@@ -7,11 +7,11 @@ My name is Mike and I have a broken fridge :>
 The story is [here](https://wiki.hackerspace.pl/projects:lepi-lodowka).
 
 
-#toDo:
--at last put it on GitHub! xD
+# toDo:
+-at last put it on GitHub! xD  
 -swich to non-blocking sockets  
--use Peter Finch'es uasyncio
-
+-use Peter Finch'es uasyncio  
+  
 
 ## Running
 -refer to Fritzing schematic to connect elements  
