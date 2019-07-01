@@ -9,7 +9,9 @@ The story is [here](https://wiki.hackerspace.pl/projects:lepi-lodowka).
 
 # toDo:
 -at last put it on GitHub! xD  
--swich to non-blocking sockets  
+-try asking for help :>
+  
+-try swiching to non-blocking sockets  
 -use Peter Finch'es uasyncio  
   
 
