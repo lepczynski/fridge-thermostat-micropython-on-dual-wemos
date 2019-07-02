@@ -4,16 +4,15 @@ Hi! : )
 
 My name is Mike and I have a broken fridge :>  
 
-The story is [here](https://wiki.hackerspace.pl/projects:lepi-lodowka).
+The full story is [here](https://wiki.hackerspace.pl/projects:lepi-lodowka).
 
 
 # toDo:
 -~~at last put it on GitHub!~~ :D  
--try asking for help :>
-  
--try swiching to non-blocking sockets  
--use Peter Finch'es uasyncio  
-  
+-try switching to non-blocking sockets  
+-try using Peter Finch's uasyncio  
+-try looking for help and guidance
+
 
 ## Running
 -refer to Fritzing schematic to connect elements  
